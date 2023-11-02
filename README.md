@@ -9,7 +9,7 @@ Unsupervised machine learning involves extracting patterns, structures, or relat
 
 - [Project Overview](#project-overview)
 - [Preparing Data](#preparing-data)
-- [Finding the Best Value for K](#best-value-k)
+- [Finding the Best Value for K](#finding-the-Best-Value-for-K)
 - [Clustering Cryptocurrencies with K-means Algorithm](#clustering)
 - [Optimizing Clusters with Principal Component Analysis (PCA)](#PCA-clustering)
 - [Determining Optimal k using PCA Data](#pca-best-value-k)
